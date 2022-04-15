@@ -1,0 +1,106 @@
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\PKL_B-Cheese.pdb
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\PKL_B-Cheese.xml
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.vbproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.xml
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.pdb
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.login.resources
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.mainmenu.resources
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.checkin.resources
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.service.resources
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.vbprojAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\PKL_B-Cheese.dll.config
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\PKL_B-Cheese.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\MySql.Data.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\Zstandard.Net.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\Renci.SshNet.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\System.Memory.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\System.Buffers.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\MySql.Data.xml
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.vbproj.CopyComplete
+C:\Users\asus\Documents\Visual Studio 2012\Projects\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.dll
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\PKL_B-Cheese.pdb
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\PKL_B-Cheese.xml
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\MySql.Data.dll
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\Zstandard.Net.dll
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\Renci.SshNet.dll
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\System.Memory.dll
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\System.Buffers.dll
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\MySql.Data.xml
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.checkin.resources
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.login.resources
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.mainmenu.resources
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.Resources.resources
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.service.resources
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.vbproj.CopyComplete
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.xml
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.pdb
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\PKL_B-Cheese.exe.config
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\PKL_B-Cheese.exe
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.exe.config
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.exe
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.vbprojAssemblyReference.cache
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.checkroom.resources
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.customerdata.resources
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.checkout.resources
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.hotelmanagement.resources
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.payment.resources
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.servicepayment.resources
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.addemployee.resources
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.deleteemployee.resources
+C:\Users\asus\source\repos\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.editemployee.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\PKL_B-Cheese.exe.config
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\PKL_B-Cheese.exe
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\PKL_B-Cheese.pdb
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\PKL_B-Cheese.xml
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\Google.Protobuf.dll
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\Zstandard.Net.dll
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\BouncyCastle.Crypto.dll
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\Ubiety.Dns.Core.dll
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\Renci.SshNet.dll
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\System.Memory.dll
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\System.Buffers.dll
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\K4os.Compression.LZ4.dll
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\K4os.Hash.xxHash.dll
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\bin\Debug\MySql.Data.xml
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.vbprojAssemblyReference.cache
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.exe.config
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.addemployee.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.checkin.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.checkout.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.checkroom.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.customerdata.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.deleteemployee.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.editemployee.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.hotelmanagement.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.login.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.mainmenu.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.Resources.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.payment.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.servicepayment.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B_Cheese.service.resources
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.vbproj.GenerateResource.cache
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.vbproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.vbproj.CopyComplete
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.exe
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.xml
+E:\Kuliah\Semester 5\PKL\PKL_B-Cheese\PKL_B-Cheese\obj\Debug\PKL_B-Cheese.pdb

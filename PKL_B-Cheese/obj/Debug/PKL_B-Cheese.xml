@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PKL_B-Cheese
+</name>
+</assembly>
+<members>
+<member name="T:PKL_B_Cheese.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PKL_B_Cheese.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PKL_B_Cheese.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PKL_B_Cheese.My.Resources.Resources._0_20200128_interiors_732_mrj">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PKL_B_Cheese.My.Resources.Resources._5e32e8e1ab49fd764c123142">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PKL_B_Cheese.My.Resources.Resources._5e32e920ab49fd6f7c0a8e22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PKL_B_Cheese.My.Resources.Resources._5e32eb9bab49fd706c6ef33b">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PKL_B_Cheese.My.Resources.Resources.CHEESE_HOTEL_LONDON1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PKL_B_Cheese.My.Resources.Resources.cheese_pattern_background_1236_182">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
